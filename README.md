@@ -6,6 +6,8 @@ For Telegram communication to work you have to first create a bot with BotFather
 ## Scripts
 + bot-msg-snd.sh - main shell script for sending message to conversation with your bot
 + rpi-security-monitor.sh - main logic of monitor, works best if automated
+
+Make sure that scripts are placed in */usr/local/bin/* directory.
 ## Automation
 ### Create service
 ```
